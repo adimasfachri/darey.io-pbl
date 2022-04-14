@@ -1,4 +1,4 @@
-# PROJECT 1: LEMP STACK IMPLEMENTATION
+# PROJECT 2: LEMP STACK IMPLEMENTATION
 
 ## 1. Install nginx and verify with ```sudo apt install -y nginx && sudo systemctl status nginx```
 
